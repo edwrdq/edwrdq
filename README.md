@@ -12,12 +12,14 @@
   Native-Level Spanish speaker - born in Venezuela, completed the [Modern States Spanish Language Course](https://learn.modernstates.org/d2l/awards/assertions/8967/view) and scheduled to take the Spanish Language CLEP exam soon.
   Basic-Level French Speaker - currently studying French at school and planning on completing the [Modern States French Language Course](https://learn.modernstates.org/d2l/le/discovery/view/course/6720) soon.
 
-## Languages - 
+## Languages & Libraries- 
 
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    ![Mongoose](https://img.shields.io/badge/-Mongoose-F04D35?logo=mongoosedotws&logoColor=white&style=for-the-badge)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+   ![PROS](https://img.shields.io/badge/-PROS-CCA352?logo=&style=for-the-badge)
+   ![Vex V5](https://img.shields.io/badge/-Vexcode-EE3124?logo=&style=for-the-badge)
 
 
 
