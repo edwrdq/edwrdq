@@ -20,6 +20,8 @@
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
    ![PROS](https://img.shields.io/badge/-PROS-CCA352?logo=&style=for-the-badge)
    ![Vex V5](https://img.shields.io/badge/-Vexcode-EE3124?logo=&style=for-the-badge)
+   ![Lemlib](https://img.shields.io/badge/-Lemlib-00c852?logo=&style=for-the-badge)
+   
 
 
 
