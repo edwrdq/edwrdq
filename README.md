@@ -12,7 +12,7 @@
 
   Native-Level English speaker - lived in the U.S for most of my life.
   <br/>
-  Native-Level Spanish speaker - born in Venezuela, completed the [Modern States Spanish Language Course](https://learn.modernstates.org/d2l/awards/assertions/8967/view) and scheduled to take the Spanish Language CLEP exam soon.
+  Native-Level Spanish speaker - born in Venezuela + Spanish as first language
   <br/>
   Basic-Level French Speaker - currently studying French at school and planning on completing the [Modern States French Language Course](https://learn.modernstates.org/d2l/le/discovery/view/course/6720) soon.
 
