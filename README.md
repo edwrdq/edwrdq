@@ -28,6 +28,9 @@
    ![Vex V5](https://img.shields.io/badge/-Vexcode-EE3124?logo=&style=for-the-badge)
    ![Lemlib](https://img.shields.io/badge/-Lemlib-00c852?logo=&style=for-the-badge)
 
+## Work Experience - 
+  Built a eCommerce website for a local business that sells jewelry & other similar items - [Dali Bisuteria](http://dalibisuteria.com/)
+
 ## Workspace Setup
 
   ![i7-13th-gen](https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
