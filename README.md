@@ -6,7 +6,7 @@
 
   Outside tech, I love working with electric principles and 3D printing. 
 
-  I'm a member of VRC team 33172F
+  I was the captain of VRC team 33172F for the 2024-25 "High Stakes" season
 
 ## (Human) Languages- 
 
@@ -14,7 +14,6 @@
   <br/>
   Native-Level Spanish speaker - born in Venezuela + Spanish as first language
   <br/>
-  Basic-Level French Speaker - currently studying French at school and planning on completing the [Modern States French Language Course](https://learn.modernstates.org/d2l/le/discovery/view/course/6720) soon.
 
 ## Languages, Libraries, etc. -
 
