@@ -2,18 +2,19 @@
 
 ## About Me
 
-  I love reading books on finances and business principles, such as - [The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You](https://www.amazon.com/gp/product/1400236169/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), which I really recommend! 
+  I love reading books on finances and business principles, along with other types of informational texts.  
 
   Outside tech, I love working with electric principles and 3D printing. 
 
   I was the captain of VRC team 33172F for the 2024-25 "High Stakes" season
 
-## (Human) Languages- 
+## How I Communicate- 
 
   Native-Level English speaker - lived in the U.S for most of my life.
   <br/>
   Native-Level Spanish speaker - born in Venezuela + Spanish as first language
   <br/>
+  Conversational French speaker - studied French for 2 years, beginning my third.
 
 ## Languages, Libraries, etc. -
 
@@ -32,7 +33,7 @@
    ![Lemlib](https://img.shields.io/badge/-Lemlib-00c852?logo=&style=for-the-badge)
 
 ## Work Experience - 
-  Built a eCommerce website for a local business that sells jewelry & other similar items - [Dali Bisuteria](http://dalibisuteria.com/)
+  Built a eCommerce website for a local business that sells jewelry & other similar items - the business shifted their focus to in-person sales.
 
 ## Workspace Setup
 
