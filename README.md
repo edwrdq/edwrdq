@@ -23,7 +23,7 @@
    ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
    ![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-   ![Google Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+   ![Google Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
    ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
    ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
